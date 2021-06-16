@@ -68,6 +68,8 @@
     background-color: rgb(47, 48, 48);
     color: white;
     padding: 10px;
+    position: absolute;
+    bottom: 0;
 }
 
 .main-item {
